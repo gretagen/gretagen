@@ -24,5 +24,5 @@ I write software for Linux systems in my spare time.
 
 ### Contact me
 
-E-mail : gretagenzeta@gmail.com
-Discord : gretagen
+- E-mail : gretagenzeta@gmail.com
+- Discord : gretagen
