@@ -15,5 +15,12 @@ Creator and developer of HaliadeSYS, electronic music producer, and graphic desi
 
 ### Contact
 
+<<<<<<< HEAD
 - **E-mail:** gretagenzeta@gmail.com
 - **Discord:** gretagen
+=======
+### Contact me
+
+- E-mail : gretagenzeta@gmail.com
+- Discord : gretagen
+>>>>>>> 38867ec55c515d0fb354fbe7df76c3816ff4ecac
